@@ -28,6 +28,7 @@ PageSpeed for Desktop: 96
 * In document.addEventListener('DOMContentLoaded', function()
 ** Since we are using transform in updatePositions() instead of basicLeft, a custom property, means basicLeft has to change to style.left with px
 ** Used getElementById for faster DOM access
+** reduced the number of generating pizzas to help performance
 
 ### Customization with Bootstrap
 The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstrap</a> framework. All custom styles are in `dist/css/portfolio.css` in the portfolio repo.
