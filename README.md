@@ -1,5 +1,5 @@
 # How to run the application
-* Click the following [link] () to run the application.
+* Click the following [link] (https://justkesh.github.io/frontend-nanodegree-mobile-portfolio/) to run the application.
 * Or open the index.html in any browser of your preference
 
 ## Optimizations in Index.html 
